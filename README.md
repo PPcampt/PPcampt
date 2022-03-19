@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PPcampt
-- 👀 I’m interested in Automation, Data science
-- 🌱 I’m currently learning ... Python, C++
+- 👀 I’m interested in Automation, Electronic Design and Mechanic Design.
+- 🌱 I’m currently learning ... Python, C++, Scilab, Solidworks
 - 💞️ I’m looking to collaborate on ... Projects or Competitive 
 - 📫 How to reach me ... send me a email to jrcampospp22@gmail.com
 
